@@ -79,5 +79,12 @@ namespace fibonacci_1
             return a + b;
         }
         
+        static int evklid(int a, int b)
+        {
+            if(b==0)
+                return a;
+            return evklid(b,b%a);
+        }
+        
     }
 }
