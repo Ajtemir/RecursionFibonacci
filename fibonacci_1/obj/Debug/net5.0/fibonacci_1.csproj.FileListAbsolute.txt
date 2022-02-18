@@ -1,0 +1,16 @@
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1.deps.json
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1.runtimeconfig.json
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1.runtimeconfig.dev.json
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1.dll
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/ref/fibonacci_1.dll
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/bin/Debug/net5.0/fibonacci_1.pdb
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.csproj.AssemblyReference.cache
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.AssemblyInfoInputs.cache
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.AssemblyInfo.cs
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.csproj.CoreCompileInputs.cache
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.dll
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/ref/fibonacci_1.dll
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.pdb
+/home/aitemir/data_structure_algorithm_practise/recursion_all/recursion_cs/fibonacci_1/fibonacci_1/obj/Debug/net5.0/fibonacci_1.genruntimeconfig.cache
